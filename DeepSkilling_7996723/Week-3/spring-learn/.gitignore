@@ -1,0 +1,30 @@
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse / Spring Tool Suite (STS)
+.classpath
+.project
+.settings/
+.springBeans
+.factorypath
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Maven wrapper (optional - ignore only if you don't use Maven Wrapper)
+# .mvn/
+
+# Environment files
+.env
