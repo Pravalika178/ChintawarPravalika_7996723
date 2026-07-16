@@ -1,0 +1,16 @@
+.box {
+  width: 500px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: green;
+}
